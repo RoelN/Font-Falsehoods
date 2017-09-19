@@ -26,7 +26,7 @@ This is a list of [falsehoods programmers believe in](https://github.com/kdeldyc
 1. You're allowed to modify any font
 1. WOFF and WOFF2 are font formats
 1. FOUT is unavoidable
-1. FOIT in unavoidable
+1. FOIT is unavoidable
 1. FOUT is a bug, not a feature
 1. Fonts will make your website slow
 1. Writing a `@font-face` rule is enough to properly deliver fonts
