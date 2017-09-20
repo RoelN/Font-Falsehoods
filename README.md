@@ -17,6 +17,7 @@ The "falsehoods programmers believe"-format doesn't provide explanations and tri
 1. All text will be rendered in the selected font
 1. All text will be in English/my language
 1. Users will never need characters that aren't in the font
+1. If a character isn't in a font, the system will do the right thing
 1. Font rendering is being taken care of by the OS
 1. Font rendering is being taken care of by the application itself
 1. All modern browsers support webfonts
@@ -47,3 +48,4 @@ The "falsehoods programmers believe"-format doesn't provide explanations and tri
 1. Every glyph is exactly one character
 1. Every character is exactly one glyph
 1. A font will contain all styles and weights
+1. The "M" is one em wide
