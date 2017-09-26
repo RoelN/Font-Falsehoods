@@ -37,6 +37,7 @@ The "falsehoods programmers believe"-format doesn't provide explanations and tri
 1. Everyone has the same fallback fonts installed
 1. OpenType features like ligatures should always be on
 1. OpenType features like ligatures make any text better
+1. Programming fonts need special ligatures
 1. It's good practice to set an explicit font size regardless of user preferences
 1. Every glyph has the same codepoint in every font
 1. You can associate any glyph on screen with a character in the source text
