@@ -6,46 +6,48 @@ Excluded from this list are falsehoods that also live outside the programming wo
 
 The "falsehoods programmers believe"-format doesn't provide explanations and tries to pique your curiosity enough to do your own research. Regardless, I'll try to add explanations soon. If you want to know more or wonder why an item is on the list, [tweet your questions at me!](https://twitter.com/pixelambacht)
 
-1. Fonts render the same everywhere 
-1. Fonts _should_ render the same everywhere
-1. Fonts given the same size (e.g. 16px) will _look_ the same size
-1. Font size determines the line height
-1. Fonts are free
-1. Someone else will check the font license
-1. I can share the font with everyone on my project
-1. The fonts that came with my OS can be freely uploaded to my server
-1. All text will be rendered in the selected font
-1. All text will be in English/my language
-1. Users will never need characters that aren't in the font
-1. If a character isn't in a font, the system will do the right thing
-1. Font rendering is being taken care of by the OS
-1. Font rendering is being taken care of by the application itself
-1. All modern browsers support webfonts
-1. Fonts are a great way to deliver icons
-1. Fonts can be hosted on a CDN like other assets
-1. Hinting isn't needed anymore
-1. A `.ttf` file contains TrueType outlines
-1. An `.otf` file contains OpenType outlines
-1. You're allowed to subset any font
-1. You're allowed to modify any font
-1. WOFF and WOFF2 are font formats
-1. FOUT is unavoidable
-1. FOIT is unavoidable
-1. FOUT is a bug, not a feature
-1. Fonts will make your website slow
-1. Writing a `@font-face` rule is enough to properly deliver fonts
-1. Everyone has the same fallback fonts installed
-1. OpenType features like ligatures should always be on
-1. OpenType features like ligatures make any text better
-1. It's good practice to set an explicit font size regardless of user preferences
-1. Every glyph has the same codepoint in every font
-1. You can associate any glyph on screen with a character in the source text
-1. Fonts can be displayed in one single color
-1. Faux bold or italics, created by the browser, is the same as using actual bold or italic fonts
-1. Fonts are safe and pose no security threat
-1. You can render text by simply sticking glyphs next to each other
-1. Fonts can't have bugs, they're just a bunch of outlines
-1. Every glyph is exactly one character
-1. Every character is exactly one glyph
-1. A font will contain all styles and weights
-1. The "M" is one em wide
+* Fonts render the same everywhere
+* Fonts _should_ render the same everywhere
+* Fonts given the same size (e.g. 16px) will _look_ the same size
+* Font size determines the line height
+* Fonts are free
+* Someone else will check the font license
+* I can share the font with everyone on my project
+* The fonts that came with my OS can be freely uploaded to my server
+* All text will be rendered in the selected font
+* All text will be in English/my language
+* Users will never need characters that aren't in the font
+* If a character isn't in a font, the system will do the right thing
+* Font rendering is being taken care of by the OS
+* Font rendering is being taken care of by the application itself
+* All modern browsers support webfonts
+* Fonts are a great way to deliver icons
+* Fonts can be hosted on a CDN like other assets
+* Hinting isn't needed anymore
+* A `.ttf` file contains TrueType outlines
+* An `.otf` file contains OpenType (CFF) outlines
+* You're allowed to subset any font
+* You're allowed to modify any font
+* WOFF and WOFF2 are font formats
+* FOUT is unavoidable
+* FOIT is unavoidable
+* FOUT is a bug, not a feature
+* Fonts will make your website slow
+* Writing a `@font-face` rule is enough to properly deliver fonts
+* Everyone has the same fallback fonts installed
+* OpenType layout features like ligatures should always be on
+* OpenType layout features like ligatures make any text better
+* It's good practice to set an explicit font size regardless of user preferences
+* Every glyph has the same codepoint in every font
+* You can associate any glyph on screen with a character in the source text
+* Every glyph represents exactly one character
+* Every character is represented by exactly one glyph
+* Fonts can be displayed in one single color
+* Faux bold or italics, created by the browser, is the same as using actual bold or italic fonts
+* Fonts are safe and pose no security threat
+* You can render text by simply sticking glyphs next to each other
+* Fonts can't have bugs, they're just a bunch of outlines
+* A font will contain all styles and weights
+* The "M" is one em wide
+* Bitmap fonts no longer exist
+* A desktop license means I can use the font on my website
