@@ -51,3 +51,4 @@ The "falsehoods programmers believe"-format doesn't provide explanations and tri
 * The "M" is one em wide
 * Bitmap fonts no longer exist
 * A desktop license means I can use the font on my website
+* The width of `"a"` plus the width of `"b"` equals the width of `"ab"` (for all strings `"a"` and `"b"`)
